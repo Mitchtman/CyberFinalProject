@@ -153,7 +153,7 @@ The Red Team was able to penetrate Target 2 and retrieve the following confident
         - './exploit.sh'
     - Results: Used the injection attack to find path var/www/flag2.txt
 
-![Flag 2 location](/Images/flag-2-target-2.png "Flag 2 location")
+![Flag 2 location](/Images/flag2-target2.png "Flag 2 location")
 
 - **Flag3: a0f568aa9de277887f37730d71520d9b**
 - Exploit Used:
